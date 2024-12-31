@@ -1,10 +1,10 @@
 this is my config? i think?
 ## things ya need:
-swayfx - fancy shadows and corners
-swaybg - background
-waybar - bar 
-nano   - textitor
-fastfetch - show off ur specs
+swayfx - fancy shadows and corners \n
+swaybg - background \n
+waybar - bar \n
+nano   - textitor \n
+fastfetch - show off ur specs \n
 
 
 ## thanks 2:
