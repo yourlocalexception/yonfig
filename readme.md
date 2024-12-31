@@ -6,6 +6,10 @@ waybar - bar <br>
 nano   - textitor <br>
 fastfetch - show off ur specs <br>
 
+## plz note:
+temperature thingy in waybar: ya gotta change the hwmon path <br>
+i made this config in fedora: maybe broken in other distros <br>
+n' also have a good day mate: 👍
 
 ## thanks 2:
-i forgor his name plz forgiv: for wofi config
+i forgor his name plz forgiv: for wofi config <br>
