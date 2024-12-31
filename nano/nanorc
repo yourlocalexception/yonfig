@@ -1,0 +1,11 @@
+set mouse
+set linenumbers
+set nohelp
+set indicator
+set titlecolor bold,white black
+set numbercolor bold,white black
+set keycolor bold,white black
+set functioncolor bold,white black
+set statuscolor bold,white black
+set scrollercolor black white
+set stripecolor bold,white black
