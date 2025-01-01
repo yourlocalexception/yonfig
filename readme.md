@@ -5,6 +5,7 @@ swaybg - background <br>
 waybar - bar <br>
 nano   - textitor <br>
 fastfetch - show off ur specs <br>
+wofi   - strat menu <br>
 
 ## plz note:
 temperature thingy in waybar: ya gotta change the hwmon path <br>
